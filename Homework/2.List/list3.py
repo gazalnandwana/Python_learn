@@ -2,7 +2,7 @@
 #   a) Display the last 5 names from the list
 #   b) Sort the list alphabetically
 
-list_name = ['bob' , 'alex' , 'john' , 'rex' , 'ram' , 'steve' , 'martin' , 'luther' , 'king' , 'trump' ]
-print(f'The last 5 names in list are: {list_name[-5:]}')
-list_name.sort()
-print(f'Names in this list are alphabetically sorted : {list_name}')
+names = ['bob' , 'alex' , 'jhon' , 'linda' , 'kail' , 'zack' , 'king' , 'kim' , 'avi' , 'foster']
+print(f'The last five names from the list are: {names[-5:]}')
+names.sort()
+print(f'Names in the list are alphabetically sorted: {names}')
