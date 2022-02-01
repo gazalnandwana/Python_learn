@@ -17,7 +17,7 @@
 #   # if i == 10:
 #   #   break
 #   # else:
-#   #   print(i)
+#   #  print(i)
 #   # print(i)
 
 
@@ -26,3 +26,4 @@ x = 1
 while x < 10:
   print(x)
   x+=1
+
